@@ -1,0 +1,24 @@
+@media (max-width: 767px) {
+}
+
+.nav > li {
+  background-color: #c13535;
+}
+
+#home-content {
+  height: 1000px;
+}
+
+#title {
+  margin-bottom: 20px;
+}
+
+#tall-content {
+  color: white;
+}
+
+.inner-content {
+  height: 1000px;
+  background-color: rgb(107, 107, 107);
+  padding: 5px 15px 5px;
+}
